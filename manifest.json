@@ -1,0 +1,14 @@
+{
+    "name": "Solopredict Push Notification",
+    "short_name": "Solopredict",
+    "gcm_sender_id": "Solo",
+    "start_url": "/",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "https://www.solopredict.com/logo.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ]
+}
